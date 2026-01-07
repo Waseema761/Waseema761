@@ -51,13 +51,4 @@
 
 ---
 
-## 🤝 Looking For
-- DevOps Intern / Fresher opportunities  
-- Real-time CI/CD projects  
-- Learning & collaboration  
-
----
-
-<p align="center">
-  <i>Always learning, always building ⚡</i>
-</p>
+ 

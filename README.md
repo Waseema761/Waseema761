@@ -46,13 +46,14 @@ Working with Linux, AWS & CI/CD 🚀
 ## ⚡ Tech Stack 🧠
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/>
+  
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" />
+  
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="48"/>
 </p>
 
-
+ 
 
 ✨ **Quote I Live By**
 

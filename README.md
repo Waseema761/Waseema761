@@ -50,6 +50,7 @@ Working with Linux, AWS & CI/CD 🚀
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="48"/>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="48"/>
 </p>
+<img src="https://camo.githubusercontent.com/7575696d9955b68522293ed8409d041e78dc26dd51add99b5a5d9aad0747e11e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" width="48" />
 
 
 ✨ **Quote I Live By**

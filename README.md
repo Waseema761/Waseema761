@@ -1,7 +1,7 @@
  # 👋 Hey! Nice to see you 😎
 
 ## 👨‍💻 Waseem Akram  
-**DevOps Engineer (Learner)** 🇮🇳  
+**DevOps Engineer (Learner)** 
 
 ---
 

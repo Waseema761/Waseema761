@@ -47,7 +47,7 @@ Working with Linux, AWS & CI/CD 🚀
 
 <p align="left">
   
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="100" />
   
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" />
 

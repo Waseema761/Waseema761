@@ -4,7 +4,7 @@
 <b>Empowering Cloud & DevOps Learners!</b>
 </p>
 
-**Waseem Akram** — DevOps Engineer (Learner) 🇮🇳  
+**Waseem Akram** — DevOps Engineer (Learner) 
 Working with Linux, AWS & CI/CD 🚀
 
 ![Profile views](https://komarev.com/ghpvc/?username=Waseema761&label=Profile%20views&color=0e75b6&style=flat)

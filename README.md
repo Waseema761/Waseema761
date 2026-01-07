@@ -43,6 +43,11 @@ Working with Linux, AWS & CI/CD 🚀
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=DevOps+Engineer+Learner;Linux+%7C+AWS+%7C+Jenkins;Learning+Terraform" />
 </p>
 
+## ⚡ Tech Stack 🧠
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,aws,jenkins,terraform&theme=dark" />
+</p>
 
 
 

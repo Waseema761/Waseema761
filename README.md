@@ -46,10 +46,10 @@ Working with Linux, AWS & CI/CD 🚀
 ## ⚡ Tech Stack 🧠
 
 <p align="left">
-  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="60" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" />
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="60" />
-  <img src="https://techstack-generator.vercel.app/jenkins-icon.svg" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48"/>
 </p>
 
 

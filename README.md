@@ -49,6 +49,8 @@ Working with Linux, AWS & CI/CD 🚀
   <img src="https://skillicons.dev/icons?i=linux,git,github,aws,jenkins,terraform&theme=dark" />
 </p>
 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="48"/>
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>

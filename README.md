@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Waseem Akram</b><br>
-  DevOps Engineer (Learner) 🇮🇳
+  DevOps Engineer (Learner) 
 </p>
 
 <p align="center">

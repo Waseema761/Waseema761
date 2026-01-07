@@ -1,56 +1,58 @@
- <h1 align="center">😎 Hey! Nice to see you 👋</h1>
+ # 😎 Hey! Nice to see you. 🚀
 
-<p align="center">
-  <b>Waseem Akram</b><br>
-  DevOps Engineer (Learner) 🇮🇳
+<p style="color:red; font-size:22px;">
+<b>Empowering Cloud & DevOps Learners!</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Waseema761&style=flat-square&color=blue" />
-</p>
+**Waseem Akram** — DevOps Engineer (Learner) 🇮🇳  
+Working with Linux, AWS & CI/CD 🚀
+
+![Profile views](https://komarev.com/ghpvc/?username=Waseema761&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-## 👨‍💻 About Me
-- 🐧 Linux user with strong command-line practice  
-- 🔧 Building CI/CD pipelines using Jenkins  
-- ☁️ Working with AWS Cloud (EC2, IAM basics)  
-- 🔁 Using Git & GitHub for version control  
-- 🚀 Learning DevOps step-by-step with hands-on projects  
+## 🧠 Things I am familiar with 🧩
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=orange)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat&logo=sonatype&logoColor=white)
 
 ---
 
-## ⚡ Tech Stack
+## 🚧 Currently Learning
 
-### ✅ Familiar With
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+---
+
+- 🤝 I’m looking to collaborate on **AWS & DevOps Projects**
+- ⚙️ Practicing **Jenkins CI/CD pipelines**
+- ☁️ Deploying apps on **AWS EC2**
+- ⚡ Always learning, always building!
+
+---
+
+## ⚡ Tech Stack 🧠
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,aws,jenkins" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45"/>
 </p>
 
 ---
 
-### 🚧 Currently Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=terraform,docker,bash" />
-</p>
+✨ **Quote I Live By**
 
----
-
-## 🔧 Hands-on Practice
-- Jenkins Freestyle & Declarative Pipelines  
-- GitHub → Jenkins integration  
-- Maven build automation  
-- AWS EC2 launch & configuration  
-- Linux commands & shell usage  
-
----
-
-## 🎯 Goal
-To become a skilled DevOps Engineer and work on real-world CI/CD & cloud projects 🚀
-
----
-
-<p align="center">
-  <i>Always learning, always building ⚡</i>
-</p>
+> *“Automate what can be automated.”*
 

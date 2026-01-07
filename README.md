@@ -1,16 +1,27 @@
-## Hi there 👋
+ # 👋 Hey! Nice to see you 😎
 
---
-**Waseema761/Waseema761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Waseem Akram  
+**DevOps Engineer (Learner)** 🇮🇳  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+## 🛠 Skills
+- Linux 🐧
+- Git
+- GitHub
+- AWS ☁️
+- Jenkins 🔧
+
+---
+
+## 🔧 What I’m Doing Now
+- Building Jenkins CI/CD pipelines
+- Integrating GitHub with Jenkins
+- Practicing AWS EC2 & IAM
+- Improving Linux command skills
+
+---
+
+## 🎯 Goal
+To become a skilled DevOps Engineer and work on real-world projects 🚀
+

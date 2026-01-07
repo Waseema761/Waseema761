@@ -46,16 +46,9 @@ Working with Linux, AWS & CI/CD 🚀
 ## ⚡ Tech Stack 🧠
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Jenkins-Dark.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Terraform-Dark.svg" width="48"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="48"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="48"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="48"/>
 </p>
 
 

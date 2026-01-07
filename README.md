@@ -1,7 +1,7 @@
  # 😎 Hey! Nice to see you. 🚀
 
 <p style="color:red; font-size:22px;">
-<b> DevOps Learners!</b>
+<b> DevOps Learner!</b>
 </p>
 
 **Waseem Akram** — DevOps Engineer (Learner) 

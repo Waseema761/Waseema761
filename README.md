@@ -1,7 +1,7 @@
  # 😎 Hey! Nice to see you. 🚀
 
 <p style="color:red; font-size:22px;">
-<b>Empowering Cloud & DevOps Learners!</b>
+<b> DevOps Learners!</b>
 </p>
 
 **Waseem Akram** — DevOps Engineer (Learner) 

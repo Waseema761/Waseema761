@@ -42,13 +42,9 @@ Working with Linux, AWS & CI/CD 🚀
 ## ⚡ Tech Stack 🧠
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="48"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" width="48"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" width="48"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jenkins.png" width="48"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" width="48"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,aws,jenkins,terraform&theme=dark" />
 </p>
+
 
 
 ✨ **Quote I Live By**

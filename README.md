@@ -59,7 +59,7 @@ Working with Linux, AWS & CI/CD 🚀
 
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
   
-   <img  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="90" alt="MySQL"/>
+   <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="90" alt="MySQL"/>
    
 </p>
 

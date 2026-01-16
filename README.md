@@ -58,6 +58,8 @@ Working with Linux, AWS & CI/CD 🚀
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="100"/>
 
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  
+   <img src="https://camo.githubusercontent.com/16d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f746563686e6f6c6f676963616c6b6e6f776c656467652e66696c65732e776f726470726573732e636f6d2f323031372f30372f6d7973716c2d6c6f676f2e706e67" width="100" alt="MySQL Logo"/>
 </p>
 
  

@@ -57,7 +57,7 @@ Working with Linux, AWS & CI/CD 🚀
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="100"/>
 
-   <img src="https://media.giphy.com/media/8Z1qQK9bq8Zqg/giphy.gif" width="100" alt="MySQL GIF" />
+   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="90" alt="MySQL" /> 
   
  
    

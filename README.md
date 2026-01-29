@@ -63,7 +63,9 @@ Working with Linux, AWS & CI/CD 🚀
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="100"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="100"/> 
+
+ <img src="https://techstack-generator.vercel.app/ansible-icon.svg" width="100"/>
 
    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="90" alt="MySQL" /> 
   

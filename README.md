@@ -55,6 +55,10 @@ Working with Linux, AWS & CI/CD 🚀
   
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="100" />
 
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="80" height="100" />
+
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="80" height="100" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="100"/>

@@ -43,8 +43,9 @@ Working with Linux, AWS & CI/CD 🚀
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=DevOps+Engineer+Learner;Linux+%7C+AWS+%7C+Jenkins;Learning+Terraform" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Linux+%7C+AWS+%7C+Jenkins;Ansible+%7C+Docker+%7C+Kubernetes+%7C+Grafana+%7C+Terraform" />
 </p>
+
 
 ## ⚡ Tech Stack 🧠
 

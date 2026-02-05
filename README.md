@@ -4,8 +4,8 @@
 <b> DevOps Engineer!</b>
 </p>
 
-**Waseem Akram** — DevOps Engineer (Learner) 
-Working with Linux, AWS & CI/CD 🚀,🏗️ Terraform Infrastructure, ⚙️ Ansible Configuration
+**Waseem Akram** — DevOps Engineer 
+Working with Linux, AWS & CI/CD 🚀,🏗️ Terraform Infrastructure, ⚙️ Ansible Configuration ,docker container 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Waseema761&label=Profile%20views&color=0e75b6&style=flat)
 

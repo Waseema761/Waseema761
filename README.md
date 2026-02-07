@@ -1,11 +1,18 @@
- # 😎 Hey! Nice to see you. 🚀
+<h1 align="center">🚀 WASEEM AKRAM 🚀</h1>
 
-<p style="color:red; font-size:22px;">
-<b> DevOps Engineer!</b>
+<h3 align="center">DevOps Engineer | Cloud & Automation</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Waseema761&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
-**Waseem Akram** — DevOps Engineer 
-Working with Linux, AWS & CI/CD 🚀,🏗️ Terraform Infrastructure, ⚙️ Ansible Configuration ,docker container 
+---
+
+### 👋 Hey there!
+
+I’m **Waseem Akram**, a **DevOps Engineer** working with modern cloud and automation tools to build reliable, scalable infrastructure.
+
+---
 
 ![Profile views](https://komarev.com/ghpvc/?username=Waseema761&label=Profile%20views&color=0e75b6&style=flat)
 

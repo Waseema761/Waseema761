@@ -1,15 +1,9 @@
 <div align="center">
 
-<h1 style="font-size:70px; font-weight:900; letter-spacing:6px;">
-W A S E E M &nbsp; A K R A M
-</h1>
-
-<p style="font-size:18px; letter-spacing:3px; margin-top:-10px;">
-DevOps Engineer
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=48&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=800&lines=WASEEM+AKRAM;DEVOPS+ENGINEER;CLOUD+%7C+AUTOMATION" />
 
 </div>
----
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=Waseema761&label=Profile%20views&color=0e75b6&style=flat)
 

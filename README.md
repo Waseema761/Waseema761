@@ -1,17 +1,14 @@
-<h1 align="center">🚀 WASEEM AKRAM 🚀</h1>
+<div align="center">
 
-<h3 align="center">DevOps Engineer | Cloud & Automation</h3>
+<h1 style="font-size:70px; font-weight:900; letter-spacing:6px;">
+W A S E E M &nbsp; A K R A M
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Waseema761&label=Profile%20Views&color=blue&style=flat" />
+<p style="font-size:18px; letter-spacing:3px; margin-top:-10px;">
+DevOps Engineer
 </p>
 
----
-
-### 👋 Hey there!
-
-I’m **Waseem Akram**, a **DevOps Engineer** working with modern cloud and automation tools to build reliable, scalable infrastructure.
-
+</div>
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=Waseema761&label=Profile%20views&color=0e75b6&style=flat)
